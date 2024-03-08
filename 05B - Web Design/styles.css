@@ -1,0 +1,19 @@
+#header {
+    background-color: #ffdddd;
+    color: #9b6a6a;
+    text-align: center;
+}
+#nav {
+    background-color: #a48080;
+    color: #511515;
+    text-align: center;
+}
+#section {
+    background-color: rgb(174, 180, 178);
+}
+
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    }  
