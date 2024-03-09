@@ -1,0 +1,38 @@
+
+
+.header {
+    background-color: #ffdddd;
+    color: #0d05f4;
+    text-align: center;
+    padding: 30px;
+
+}
+.nav {
+    background-color: #3c51f0;
+    color: #67ff64;
+    text-align: center;
+}
+
+.section {
+    display: table;
+    clear: both;
+  }
+
+.article {
+    padding: 20px;
+    float: left;
+    width: 140px;
+}
+
+
+.sivut {
+    float: left;
+    height: 500px;
+    background-color: beige;
+    width: 120px;
+
+    
+  }
+
+  .one:hover {color:#ff0000;}
+
