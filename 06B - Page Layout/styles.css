@@ -1,4 +1,8 @@
-
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
 .header {
     background-color: #ffdddd;
@@ -7,32 +11,30 @@
     padding: 30px;
 
 }
-.nav {
-    background-color: #3c51f0;
-    color: #67ff64;
-    text-align: center;
-}
-
-.section {
-    display: table;
-    clear: both;
-  }
-
-.article {
-    padding: 20px;
-    float: left;
-    width: 140px;
-}
-
 
 .sivut {
+    background-color: #929deb;
+    text-align: center;
+    color: aliceblue;
+}
+
+.teksti {
+    padding: 20px;
+    float: left;
+    width: 50%;
+}
+
+
+.linkit {
     float: left;
     height: 500px;
     background-color: beige;
-    width: 120px;
+    width: 15%;
 
     
   }
 
-  .one:hover {color:#ff0000;}
+  .efekti:hover {
+    color:#ff0000;
+}
 
