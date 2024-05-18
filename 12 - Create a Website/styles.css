@@ -37,11 +37,7 @@ body {
 	color: bisque
 }
 
-.carousel {
-    width: 100%;
-    overflow: hidden;
 
-}
 
 .carousel-item img {
     width: 350px; 
